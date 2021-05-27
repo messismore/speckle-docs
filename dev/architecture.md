@@ -22,7 +22,7 @@ These applications, in order to talk to each other and make sense of the data th
 
 :::tip Extra reading
 
-[Here's an article](/base) through how we implemented this approach in our .NET SDK. 
+[Here's an article](/dev/base) through how we implemented this approach in our .NET SDK. 
 
 :::
 
@@ -70,7 +70,7 @@ Alternatively, a plugin based on Speckle could be developed that acts much more 
 
 :::tip Extra reading
 
-A work-in-progress guide on how to write your own transport can be found [here](transports-dev).
+A work-in-progress guide on how to write your own transport can be found [here](/dev/transports-dev).
 
 :::
 
